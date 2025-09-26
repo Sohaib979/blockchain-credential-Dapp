@@ -36,4 +36,5 @@ The project explores how blockchain can enhance the transparency, trust, and sec
 - It is **not licensed for reuse** — see `LICENSE`.
 
 ## 📌 Citation
-If you reference this work in research, please cite it via the Zenodo DOI (to be minted).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.17209913)
+
