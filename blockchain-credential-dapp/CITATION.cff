@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Blockchain Credential Verification DApp"
+version: "v1.0"
+date-released: "2025-09-15"
+authors:
+  - family-names: [MOHAMMED BENKADA]
+    given-names: [SOUHAIB]
+    affiliation: "Regent College London"
+repository: "https://github.com/[Sohaib979]/blockchain-credential-dapp"
+license: "All Rights Reserved"
